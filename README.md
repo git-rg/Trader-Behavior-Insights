@@ -7,5 +7,7 @@ Explore the relationship between trader performance and market sentiment, uncove
 - `Trader_Sentiment_Analysis.ipynb`: Full analysis notebook with code, charts, and insights.
 
 ## Run interactively in Colab:  
-  [Open in Colab](https://colab.research.google.com/github/<username>/<repo>/blob/main/Market_Sentiment_Analysis.ipynb)
+  [Open in Colab]
+  https://colab.research.google.com/github/<username>/<repo>/blob/main/Market_Sentiment_Analysis.ipynb](https://colab.research.google.com/github/git-rg/Trader-Behavior-Insights/blob/main/Trader_Sentiment_Analysis.ipynb)
+
 
