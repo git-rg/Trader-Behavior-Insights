@@ -5,6 +5,7 @@ Explore the relationship between trader performance and market sentiment, uncove
 
 ## Contents
 - `Trader_Sentiment_Analysis.ipynb`: Full analysis notebook with code, charts, and insights.
+- 'ritu_fresher.pdf' : My general resume as a third year student 
 
 ## Run interactively in Colab:  
   [Open in Colab]
